@@ -8,9 +8,11 @@ This project focuses on analyzing loan default data to identify key factors that
 
 General Info
 
+Conclusions
+
 Technologies Used
 
-Conclusions
+Contributors
 
 Acknowledgements
 
