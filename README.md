@@ -60,6 +60,12 @@ Jupyter Notebook - 6.4.3
 
 Python - 3.12
 
+## Contributors
+
+**Gowtham Bavireddy**
+
+**Prakash Danny Sagar**
+
 
 ## Acknowledgements
 
